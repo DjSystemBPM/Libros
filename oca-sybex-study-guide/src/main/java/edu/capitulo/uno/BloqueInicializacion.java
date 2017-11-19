@@ -1,4 +1,4 @@
-package com.alfcueba.uno;
+package edu.capitulo.uno;
 
 public class BloqueInicializacion {
 
